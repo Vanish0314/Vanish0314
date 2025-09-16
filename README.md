@@ -1,5 +1,12 @@
-## Hi there 👋
-
+<!--
+ * // -----------------------------------------------------------------------------
+ * //  Copyright (c) 2025 Vanishing Games. All Rights Reserved.
+ * @Author: VanishXiao
+ * @Date: 2025-09-16 12:09:44
+ * @LastEditTime: 2025-09-16 12:14:45
+ * // -----------------------------------------------------------------------------
+-->
+![](profile-3d-contrib/profile-gitblock.svg)
 <!--
 **Vanish0314/Vanish0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
